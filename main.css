@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    height: 100vh;
+/*  height: 100vh; */
     color: rgb(26, 19, 26);
     background: linear-gradient(to bottom, #00AAFF,#00FF6C );
     font-family: 'Alata', sans-serif;
