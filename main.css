@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-/*  height: 100vh; */
+ height: 100vh;
     color: rgb(26, 19, 26);
     background: linear-gradient(to bottom, #00AAFF,#00FF6C );
     font-family: 'Alata', sans-serif;
@@ -24,7 +24,7 @@ body{
 .wrapper{
     display: flex;
     width: 50%;
-    height: 50vh;
+/*     height: 50vh; */
     margin: auto;
     margin-top: 5%;
     justify-content: center;
@@ -63,6 +63,7 @@ footer{
     margin: auto;
     text-align: center;
     display: flex;
+     margin-top: 2rem;
     justify-content: center;
     align-items: center;
     padding: .5% 3% .5% 3%;
